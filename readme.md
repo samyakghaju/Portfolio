@@ -2,7 +2,7 @@
 
 My personal portfolio website, built with HTML and CSS and hosted on GitHub Pages.
 
-Live site: https://samyakghaju.github.io/REPO-NAME/
+Live site: https://samyakghaju.github.io/Portfolio/
 
 ## About the project
 
@@ -18,7 +18,7 @@ This started as a plain semantic HTML page. In Week 3 I added an external styles
 ## Run it locally
 
 ```
-git clone https://github.com/samyakghaju/REPO-NAME.git
+git clone https://github.com/samyakghaju/Portfolio.git
 ```
 
 Then open `index.html` in your browser.
